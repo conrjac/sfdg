@@ -55,7 +55,7 @@ public class DataGenerator {
                     private static final List<String> CITIES = new List<String>{'Tunbrigdge Wells','Peterborough','Cambridge','Haverhill','Newmarket','Cardiff','St Albans','Boston','Grimsby','Cromer','Great Yarmouth','Diss'};  
                         
                         
-                        public static void createLeadRecords(integer numberOfRecords)
+                    public static void createLeadRecords(integer numberOfRecords)
                     {
                         List<Lead> leadsToInsert = new List<Lead>();
                         
